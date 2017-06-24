@@ -1,1 +1,1 @@
-Information Technology project labs - Spring 2016 FIB UPC
+Information Technology project labs - Spring 2017 FIB UPC
