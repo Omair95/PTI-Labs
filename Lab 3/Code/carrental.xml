@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carrental>
+  <rental id="44">
+    <make>hola</make>
+    <model>dios</model>
+    <start>hoy</start>
+    <end>mamana</end>
+  </rental>
+  <rental id="17">
+    <make>ferrari</make>
+    <model>laferrari</model>
+    <start>hoy</start>
+    <end>manana</end>
+  </rental>
+</carrental>
+
